@@ -58,7 +58,7 @@ cd caminho-da-pasta
 **2. Crie o ambiente virtual**
 
 ```bash
-conda create --name dsaec1 python=3.13
+conda create --name nome python=3.13
 ```
 
 > Pressione `y` para confirmar a instalação dos pacotes.
@@ -68,7 +68,7 @@ conda create --name dsaec1 python=3.13
 **3. Ative o ambiente virtual**
 
 ```bash
-conda activate dsaec1
+conda activate nome
 ```
 
 **4. Instale o pip e as dependências**
@@ -101,7 +101,7 @@ conda deactivate
 **8. Para remover o ambiente virtual (opcional):**
 
 ```bash
-conda remove --name dsaec1 --all
+conda remove --name nome --all
 ```
 
 ## Contato
